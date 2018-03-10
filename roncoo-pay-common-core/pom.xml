@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-
+        <!--alipay-->
 		<dependency>
 			<groupId>com.alipay</groupId>
 			<artifactId>alipay-sdk-java20171201160035</artifactId>
